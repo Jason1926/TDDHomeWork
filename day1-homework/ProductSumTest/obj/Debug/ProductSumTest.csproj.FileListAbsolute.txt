@@ -1,0 +1,7 @@
+C:\Users\Jason\Desktop\昕力公司\教育訓練\TDD\201601 ThinkPower\day1-homework\ProductSumTest\obj\Debug\ProductSumTest.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\昕力公司\教育訓練\TDD\201601 ThinkPower\day1-homework\ProductSumTest\bin\Debug\ProductSumTest.dll
+C:\Users\Jason\Desktop\昕力公司\教育訓練\TDD\201601 ThinkPower\day1-homework\ProductSumTest\bin\Debug\ProductSumTest.pdb
+C:\Users\Jason\Desktop\昕力公司\教育訓練\TDD\201601 ThinkPower\day1-homework\ProductSumTest\bin\Debug\ProductSum.dll
+C:\Users\Jason\Desktop\昕力公司\教育訓練\TDD\201601 ThinkPower\day1-homework\ProductSumTest\bin\Debug\ProductSum.pdb
+C:\Users\Jason\Desktop\昕力公司\教育訓練\TDD\201601 ThinkPower\day1-homework\ProductSumTest\obj\Debug\ProductSumTest.dll
+C:\Users\Jason\Desktop\昕力公司\教育訓練\TDD\201601 ThinkPower\day1-homework\ProductSumTest\obj\Debug\ProductSumTest.pdb

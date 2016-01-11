@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductSumTest", "ProductSumTest\ProductSumTest.csproj", "{B5A37078-04A1-4453-86F2-6C14BE8635F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductSum", "ProductSum\ProductSum.csproj", "{01797A22-4DE2-44C1-B0DC-36EAAE34F364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A37078-04A1-4453-86F2-6C14BE8635F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A37078-04A1-4453-86F2-6C14BE8635F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A37078-04A1-4453-86F2-6C14BE8635F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A37078-04A1-4453-86F2-6C14BE8635F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01797A22-4DE2-44C1-B0DC-36EAAE34F364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01797A22-4DE2-44C1-B0DC-36EAAE34F364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01797A22-4DE2-44C1-B0DC-36EAAE34F364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01797A22-4DE2-44C1-B0DC-36EAAE34F364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
